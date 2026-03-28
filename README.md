@@ -1,4 +1,3 @@
-# LIUQI010
 <div align="center">
 
 ```
@@ -68,9 +67,9 @@ Looking for a full-stack role where I can build, learn fast, and contribute from
 
 <div align="center">
 
-![Qi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LIUQI1010&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true)
+![Qi's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LIUQI1010&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LIUQI1010&layout=compact&theme=graywhite&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LIUQI1010&layout=compact&theme=graywhite&hide_border=true)
 
 </div>
 
